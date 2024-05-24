@@ -1,0 +1,42 @@
+.content {
+  text-align: center;
+  padding: 1.25rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1.25rem;
+  color: #e7d5d5;
+}
+
+.addTask {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    width: 12.5rem;
+    height: 6.25rem;
+    display: inline-block;
+    padding: 0.9375rem 1.5625rem;
+    font-size: 0.875rem;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    background-color: rgb(16, 185, 214);
+    border: none;
+    border-radius: 1.5625rem;
+    box-shadow: 0 0.625rem #c3b5b5;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #eb0707;
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+  
+  .addTask:hover {
+    background-color: #1795bb;
+  }
+  
+  .addTask:active {
+    background-color: #1795bb;
+    box-shadow: 0 0.3125rem #666;
+    transform: translateY(0.25rem);
+  }

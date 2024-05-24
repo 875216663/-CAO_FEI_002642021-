@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+body, html {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-image: url('../src/assets/background.jpg');
+  background-size: cover;
+  background-position: center; 
+  line-height: 1.9;
+}
+
+main {
+  margin-top: 1.25rem;
+}
